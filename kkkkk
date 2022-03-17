@@ -1,0 +1,367 @@
+name: "lcloud_dg"
+    type: ss
+    server: ggiplc.yesclouds.com
+    port: 10130
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "lcloud_dg_ink_hk"
+    type: ss
+    server: ggiplc.yesclouds.com
+    port: 10014
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "ink_hk"
+    type: ss
+    server: 154.198.216.161
+    port: 33682
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "ink_hk_green_sg"
+    type: ss
+    server: 154.198.216.161
+    port: 33788
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "green_jp"
+    type: ss
+    server: 45.14.107.185
+    port: 33682
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "green_sg"
+    type: ss
+    server: 195.85.19.160
+    port: 33682
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "rn_us"
+    type: ss
+    server: 216.127.179.53
+    port: 33682
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "green_jp_rn_us"
+    type: ss
+    server: 45.14.107.185
+    port: 33788
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "nat_hk"
+    type: ss
+    server: 103.56.62.162
+    port: 43069
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "nat_gy183_hk"
+    type: ss
+    server: 183.232.163.236
+    port: 43069
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "nat_gy120_hk"
+    type: ss
+    server: 120.232.192.211
+    port: 43069
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "nat_jp"
+    type: ss
+    server: 103.56.62.162
+    port: 43067
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "nat_sg"
+    type: ss
+    server: 103.56.62.162
+    port: 43068
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "nat_hksg"
+    type: ss
+    server: 103.56.62.162
+    port: 43075
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "nat_gy183_sg"
+    type: ss
+    server: 183.232.163.236
+    port: 43068
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "nat_gy120_sg"
+    type: ss
+    server: 120.232.192.211
+    port: 43068
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "nat_us"
+    type: ss
+    server: 103.56.62.162
+    port: 43066
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "nat_jpus"
+    type: ss
+    server: 103.56.62.162
+    port: 43074
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "nat_cz_us"
+    type: ss
+    server: 116.129.253.218
+    port: 12679
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "fw_gg_hk"
+    type: ss
+    server: 120.240.86.225
+    port: 45169
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "fw_gg_jp"
+    type: ss
+    server: 120.240.86.225
+    port: 45174
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "fw_gg_sg"
+    type: ss
+    server: 120.240.86.225
+    port: 45189
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "fw_gg_us"
+    type: ss
+    server: 120.240.86.225
+    port: 45196
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "fw_sg_hk"
+    type: ss
+    server: 120.240.86.101
+    port: 45201
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "fw_sg_jp"
+    type: ss
+    server: 120.240.86.101
+    port: 45089
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "fw_sg_sg"
+    type: ss
+    server: 120.240.86.101
+    port: 45218
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "fw_sg_us"
+    type: ss
+    server: 120.240.86.101
+    port: 45219
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    udp: true
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "az01_hk"
+    type: ss
+    server: zf.hk01.xf.gay
+    port: 18433
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "az01_sg"
+    type: ss
+    server: zf.hk01.xf.gay
+    port: 34988
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "az01_sg2"
+    type: ss
+    server: zf.hk01.xf.gay
+    port: 49900
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "az02_hk"
+    type: ss
+    server: zf.hk02.xf.gay
+    port: 18433
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "az02_sg"
+    type: ss
+    server: zf.hk02.xf.gay
+    port: 34988
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "az02_sg2"
+    type: ss
+    server: zf.hk02.xf.gay
+    port: 49900
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "az_jp"
+    type: ss
+    server: zf.jp01.xf.gay
+    port: 22854
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+
+  - name: "az_us"
+    type: ss
+    server: zf.jp01.xf.gay
+    port: 22961
+    cipher: aes-256-gcm
+    password: "123456@QweAsd"
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
