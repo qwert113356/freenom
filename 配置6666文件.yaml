@@ -30,21 +30,7 @@ proxies:
       path: /v2ray
       headers: { Host: gy.jjxcloud.xyz }
   -
-    name: '[V1]日本BGP丨隧道'
-    type: vmess
-    server: gy.jjxcloud.xyz
-    port: 62000
-    uuid: fbee7171-5590-3e50-b0fb-fde3bdaebec6
-    alterId: 0
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /v2ray
-    ws-headers:
-      Host: gy.jjxcloud.xyz
-    ws-opts:
-      path: /v2ray
-      headers: { Host: gy.jjxcloud.xyz }
+    {name: "[SS] 🇨🇳 中国-台湾宜兰 IPLC E10", server: cn10.mynode.me, port: 8304, type: ss, cipher: rc4-md5, password: passwd, udp: true}
   -
     name: '[V1]美国洛杉矶BGP丨隧道'
     type: vmess
