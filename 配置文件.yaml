@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 🇭🇰 HKG CM.A/01 x0.3, server: 8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 92a81550-3a06-48d8-b9c9-58e00d3abbed}
+  - {name: 🇭🇰 HKG CM.A/01 x0.3, server: cn10.mynode.me, port: 8304, type: ss, cipher: rc4-md5, password: passwd}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
