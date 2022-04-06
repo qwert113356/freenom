@@ -13,7 +13,7 @@ dns:
     nameserver: [223.5.5.5, 119.29.29.29, 'https://dns.alidns.com/dns-query']
     fallback: [8.8.8.8, 1.1.1.1]
 proxies:
-    - { name: '🇭🇰HKG CM.A/01 x0.3', type: ss, server: 8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, port: 21001, cipher: chacha20-ietf-poly1305, password: 92a81550-3a06-48d8-b9c9-58e00d3abbed, udp: true }
+    - { name: '🇭🇰HKG CM汉化 x0.3', type: ss, server: cn10.mynode.me, port: 8304, cipher: rc4-md5, password: passwd, udp: true }
     - { name: '🇭🇰HKG CM.B/01 x0.3', type: ss, server: 7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, port: 21001, cipher: chacha20-ietf-poly1305, password: 92a81550-3a06-48d8-b9c9-58e00d3abbed, udp: true }
     - { name: '🇭🇰HKG CM.A/02 x0.3', type: ss, server: 8388adc0-1548-43b5-9a4e-c1fbccb4dd61.404sx.com, port: 21002, cipher: chacha20-ietf-poly1305, password: 92a81550-3a06-48d8-b9c9-58e00d3abbed, udp: true }
     - { name: '🇭🇰HKG CM.B/02 x0.3', type: ss, server: 7f98cedf-c70b-48e4-b7ec-4c2394ced310.404sx.com, port: 21002, cipher: chacha20-ietf-poly1305, password: 92a81550-3a06-48d8-b9c9-58e00d3abbed, udp: true }
