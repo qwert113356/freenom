@@ -555,7 +555,7 @@
       "key": "VIPlive",
       "name": "电视直播一",
       "type": 4,
-      "api": "https://raw.githubusercontent.com/qwert113356/freenom/main/%E9%86%89%E4%BA%86",
+      "api": "http://120.53.102.254/live?url=https://raw.githubusercontent.com/qwert113356/freenom/main/%E9%86%89%E4%BA%86",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
