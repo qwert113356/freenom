@@ -1,38 +1,38 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="[IPTV]央视",CCTV-1
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/489
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="[IPTV]央视",CCTV-2
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/490
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="[IPTV]央视",CCTV-3
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/491
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="[IPTV]央视",CCTV-4
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/492
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4欧洲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" group-title="[IPTV]央视",CCTV4欧洲
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/493
+http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/493
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4美洲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" group-title="[IPTV]央视",CCTV4美洲
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/494
+http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/494
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="[IPTV]央视",CCTV-5
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/495
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="[IPTV]央视",CCTV-5+
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/496
+http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/496
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="[IPTV]央视",CCTV-6
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/497
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV-7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="[IPTV]央视",CCTV-7
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/498
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV-8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="[IPTV]央视",CCTV-8
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/499
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV-9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="[IPTV]央视",CCTV-9
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/500
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="[IPTV]央视",CCTV-10
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/501
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="[IPTV]央视",CCTV-11
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/502
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="[IPTV]央视",CCTV-12
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/503
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225629/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="[IPTV]央视",CCTV-13
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/504
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="[IPTV]央视",CCTV-14
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/505
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="[IPTV]央视",CCTV-15
 http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/506
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV-16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="[IPTV]央视",CCTV-16
@@ -483,5 +483,25 @@ http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/1194
 http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/1196
 #EXTINF:-1 tvg-id="" tvg-name="预留测试频道" tvg-logo="" group-title="[2023]卷毛鼠IPTV祝您新年快乐！",预留测试频道
 http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/1215
+#EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="Now 4K（英语）" tvg-logo="https://www.nowtv.now.com/media/logo/616-wbg-e.png" group-title="[PLUS]体育",Now 4K（英语）
+http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/19
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育" tvg-logo="" group-title="[PLUS]体育",纬来体育
+http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/485
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT00pE-r-j-g_OMotnWvlzQL1feG-gmjwBnMw&usqp=CAU" group-title="[PLUS]体育",Fight Network
+http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/393
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT" tvg-logo="" group-title="[PLUS]体育",TNT
+http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/94
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="[PLUS]体育",ESPN
+http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/21
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="" group-title="[PLUS]体育",广东体育
+http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/1098
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="" group-title="[PLUS]体育",SPOTV
+http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/1101
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV2" tvg-logo="" group-title="[PLUS]体育",SPOTV2
+http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/1102
+#EXTINF:-1 tvg-id="" tvg-name="【赛事 1 台】英超｜阿森纳 VS 曼联（英）" tvg-logo="" group-title="[PLUS]体育",【赛事 1 台】英超｜阿森纳 VS 曼联（英）
+http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/1223
+#EXTINF:-1 tvg-id="" tvg-name="【赛事 2 台】澳网｜第七日赛事（普）" tvg-logo="" group-title="[PLUS]体育",【赛事 2 台】澳网｜第七日赛事（普）
+http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/1277
 #EXTINF:-1 tvg-id="" tvg-name="【赛事 3 台】英超｜曼城 VS 狼队（英）" tvg-logo="https://res.hkjc.com/campaigns/wp-content/uploads/sites/473/race_icon_group.png" group-title="[PLUS]体育",【赛事 3 台】英超｜曼城 VS 狼队（英）
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/1219
+http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/1219
