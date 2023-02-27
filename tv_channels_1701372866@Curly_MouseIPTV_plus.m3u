@@ -1,34 +1,34 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="[IPTV]央视",CCTV-1
-http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/489
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="[IPTV]央视",CCTV-2
-http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/490
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="[IPTV]央视",CCTV-3
-http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/491
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="[IPTV]央视",CCTV-4
-http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/492
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4欧洲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" group-title="[IPTV]央视",CCTV4欧洲
 http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/493
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4美洲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" group-title="[IPTV]央视",CCTV4美洲
 http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/494
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="[IPTV]央视",CCTV-5
-http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/495
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="[IPTV]央视",CCTV-5+
 http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/496
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="[IPTV]央视",CCTV-6
-http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/497
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV-7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="[IPTV]央视",CCTV-7
-http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/498
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV-8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="[IPTV]央视",CCTV-8
-http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/499
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV-9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="[IPTV]央视",CCTV-9
-http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/500
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV-10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="[IPTV]央视",CCTV-10
-http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/501
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV-11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="[IPTV]央视",CCTV-11
-http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/502
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV-12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="[IPTV]央视",CCTV-12
-http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/503
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225629/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="[IPTV]央视",CCTV-13
 http://www.cmlive.us:80/1701372866@Curly_MouseIPTV/sV1dmwWurL/504
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV-14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="[IPTV]央视",CCTV-14
