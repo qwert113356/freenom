@@ -42,7 +42,7 @@ http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/1279
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="[IPTV]央视",CCTV-17
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="[IPTV]央视",CCTV4K
-http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/509
+http://[2409:8087:3428:20:500::1008]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="[IPTV]央视",兵器科技
 http://www.cmlive.us:80/936741912@Curly_MouseIPTV/rdXvAx5l58/510
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="[IPTV]央视",第一剧场
