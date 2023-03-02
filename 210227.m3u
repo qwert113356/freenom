@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="[IPTV]央视",CCTV-1
-https://live.v1.mk/api/bestv.php?id=cctv1fhd8m/8000000
+https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="[IPTV]央视",CCTV-2
 https://live.v1.mk/api/bestv.php?id=cctv2fhd8m/8000000
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="[IPTV]央视",CCTV-3
