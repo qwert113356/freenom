@@ -120,7 +120,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://github.com/bobocg/beiyong/raw/main/Alist.json",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/JQLover01/my-python/c75d0fdcf42fe3ca547f06dc23a41bc7aa4ad57c/alist.json",
       "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"
     },
     /*{      "key": "紙條",      "name": "紙條",      "type": 3,      "api": "csp_Paper",      "searchable": 1,      "filterable": 1,      "changeable": 0,      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt",  "jar": "https://ghproxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"    },
