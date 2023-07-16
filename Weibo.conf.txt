@@ -117,7 +117,3 @@ hostname = api.weibo.*, *.api.weibo.*, mapi.weibo.*, *.uve.weibo.com, new.vip.we
 ^https://api.weibo.cn/2/!/client/light_skin url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/weibo_json.js
 # > 微博_非会员设置tab皮肤@zmqcherish
 ^https://new.vip.weibo.cn/littleskin/preview url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/weibo_json.js
-# > 微博_去广告以及去除各部分推广模块@zmqcherish,@ddgksf2013
-^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/(searchall|page\?|messageflow) url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/weibo_json.js
-^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/search/(finder|container_timeline|container_discover) url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/weibo_json.js
-^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/cardlist url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/weibo_json.js
