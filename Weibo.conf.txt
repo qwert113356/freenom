@@ -105,8 +105,6 @@ hostname = api.weibo.*, *.api.weibo.*, mapi.weibo.*, *.uve.weibo.com, new.vip.we
 ^https?:\/\/api\.weibo\.cn\/\d\/video\/tiny_stream_mid_detail url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/weibo_json.js
 # > 微博_去除底部超话栏表层浮icon及tips@ddgksf2013
 ^https?:\/\/api\.weibo\.cn\/\d\/!\/huati\/discovery_home_bottom_getdotinfo url reject-dict
-# > 微博_屏蔽首页左上角每日的弹窗tips@ddgksf2013
-^https?:\/\/m?api\.weibo\.c(n|om)\/\d/push/daily url reject-dict
 # > 微博_屏蔽发现页面搜索框热词@ddgksf2013
 ^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/\w{5}\/cardlist url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/weibo_json.js
 # > 微博_应用内弹窗广告@ddgksf2013
