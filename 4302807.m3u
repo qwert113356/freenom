@@ -1,13 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" 
-#EXTINF:-1 tvg-id="MD" tvg-name="MD" tvg-logo="MD" group-title=2024年7月27日,📺V6精简版📺
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://epg.hackserver.net/logo/AOLIN.png" group-title="🎯巴黎奥运会🎯",📺 CCTV5  IPv6
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="http://epg.hackserver.net/logo/AOLIN.png" group-title="🎯巴黎奥运会🎯",📺 CCTV5+ IPv6
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://epg.hackserver.net/logo/AOLIN.png" group-title="🎯巴黎奥运会🎯",📺 CCTV-16 IPv6
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视-IPv6",CCTV-1 综合
