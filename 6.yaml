@@ -1,0 +1,172 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+bind-address: "*"
+ipv6: false
+mode: rule
+log-level: silent
+external-controller: 0.0.0.0:9090
+authentication:
+  - Clash:TZqyCfh6
+redir-port: 7892
+interface-name: eth0.2
+secret: "123456"
+external-ui: "/usr/share/openclash/dashboard"
+hosts:
+##Custom HOSTS##
+# Static hosts for DNS server and connection establishment (like /etc/hosts)
+#
+# Wildcard hostnames are supported (e.g. *.clash.dev, *.foo.*.example.com)
+# Non-wildcard domain names have a higher priority than wildcard domain names
+# e.g. foo.example.com > *.example.com > .example.com
+# P.S. +.foo.com equals to .foo.com and foo.com
+
+#  '*.clash.dev': 127.0.0.1
+#  '.dev': 127.0.0.1
+#  'alpha.clash.dev': '::1'
+##Custom HOSTS END##
+dns:
+  use-hosts: true
+  listen: 127.0.0.1:7874
+  enable: true
+  ipv6: false
+  enhanced-mode: redir-host
+  nameserver:
+    - 114.114.114.114
+    - 119.29.29.29
+  fallback:
+    - https://cloudflare-dns.com/dns-query
+    - https://dns.google/dns-query
+    - https://1.1.1.1/dns-query
+    - tls://8.8.8.8:853
+  fallback-filter:
+    geoip: true
+    ipcidr:
+      - 0.0.0.0/8
+      - 10.0.0.0/8
+      - 100.64.0.0/10
+      - 127.0.0.0/8
+      - 169.254.0.0/16
+      - 172.16.0.0/12
+      - 192.0.0.0/24
+      - 192.0.2.0/24
+      - 192.88.99.0/24
+      - 192.168.0.0/16
+      - 198.18.0.0/15
+      - 198.51.100.0/24
+      - 203.0.113.0/24
+      - 224.0.0.0/4
+      - 240.0.0.0/4
+      - 255.255.255.255/32
+#===================== OpenClash-General-Settings =====================#
+proxies:
+  - {name: 台湾, server: soontw.soon.guru, port: 40020, type: ss, cipher: chacha20-ietf-poly1305, password: 38a5cf9e-2d8b-4d3f-b6e7-d6ba64c1cf6f}
+proxy-groups:
+  - name: Proxies
+    type: select
+    proxies:
+      - 🚀 HK
+      - 🚀 SG
+      - 🚀 JP
+      - 🚀 US
+      - 🚀 TW
+      - 台湾
+      - DIRECT
+  - name: Apple
+    type: select
+    proxies:
+      - DIRECT
+      - Proxies
+  - name: Telegram
+    type: select
+    proxies:
+      - Proxies
+      - 🚀 HK
+      - 🚀 SG
+  - name: Youtube
+    type: select
+    proxies:
+      - Proxies
+      - 🚀 HK
+      - 🚀 US
+  - name: Netflix
+    type: select
+    proxies:
+      - Proxies
+      - 🚀 HK
+      - 🚀 SG
+      - 🚀 JP
+      - 🚀 US
+      - 🚀 TW
+  - name: GlobalMedia
+    type: select
+    proxies:
+      - Proxies
+      - 🚀 HK
+      - 🚀 SG
+      - 🚀 JP
+      - 🚀 US
+      - 🚀 TW
+      - DIRECT
+  - name: HKMTMedia
+    type: select
+    proxies:
+      - DIRECT
+      - Proxies
+      - 🚀 HK
+      - 🚀 TW
+  - name: Final
+    type: select
+    proxies:
+      - Proxies
+      - DIRECT
+  - name: 🚀 HK
+    type: select
+    proxies:
+      - DIRECT
+  - name: 🚀 SG
+    type: select
+    proxies:
+      - DIRECT
+  - name: 🚀 TW
+    type: select
+    proxies:
+      - 台湾
+  - name: 🚀 JP
+    type: select
+    proxies:
+      - DIRECT
+  - name: 🚀 US
+    type: select
+    proxies:
+      - DIRECT
+rules:
+- PROCESS-NAME,aria2c,DIRECT
+- PROCESS-NAME,fdm,DIRECT
+- PROCESS-NAME,Folx,DIRECT
+- PROCESS-NAME,NetTransport,DIRECT
+- PROCESS-NAME,Thunder,DIRECT
+- PROCESS-NAME,Transmission,DIRECT
+- PROCESS-NAME,uTorrent,DIRECT
+- PROCESS-NAME,WebTorrent,DIRECT
+- PROCESS-NAME,WebTorrent Helper,DIRECT
+- PROCESS-NAME,DownloadService,DIRECT
+- PROCESS-NAME,Weiyun,DIRECT
+- DOMAIN-KEYWORD,aria2,DIRECT
+- DOMAIN-KEYWORD,xunlei,DIRECT
+- DOMAIN-KEYWORD,yunpan,DIRECT
+- DOMAIN-KEYWORD,Thunder,DIRECT
+- DOMAIN-KEYWORD,XLLiveUD,DIRECT
+- DOMAIN-SUFFIX,local,DIRECT
+- IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+- IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+- IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+- IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+- IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
+- IP-CIDR6,::1/128,DIRECT,no-resolve
+- IP-CIDR6,fc00::/7,DIRECT,no-resolve
+- IP-CIDR6,fe80::/10,DIRECT,no-resolve
+- IP-CIDR6,fd00::/8,DIRECT,no-resolve
+- IP-CIDR,198.18.0.1/16,REJECT,no-resolve
+- GEOIP,CN,DIRECT
+- MATCH,Final
